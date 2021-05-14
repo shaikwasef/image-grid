@@ -1,0 +1,28 @@
+.image-container{
+    columns : 3;
+    column-gap: 10px;
+  }
+  
+
+
+  .my-masonry-grid {
+    display: flex;
+    margin: 30px; 
+    width: auto;
+  }
+
+  .my-masonry-grid_column {
+    padding-left: 20px;
+    background-clip: padding-box;
+  }
+  
+  .image{
+    width:100%;
+    margin: 0 0 10px;
+    display: inline-block;
+  }
+  
+  .intro-text{
+    padding-bottom: 20px;
+    text-align: center;
+  }
