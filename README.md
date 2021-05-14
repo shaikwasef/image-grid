@@ -15,7 +15,7 @@ The image grid app makes use of the <a href = "https://www.flickr.com/services/a
 ## Features <a name = "features"></a>
 
 - Get list of images from Flickr.com .
-- Infinite scorlling feature implemented along with React-masonry library.
+- Infinite scrolling feature implemented along with React-masonry library.
 - Responsive design working flawlessly across mobile devices .
  
 ## Installation <a name = "installation"></a>
